@@ -1,8 +1,8 @@
 import functions
 
-#define the sigmoid function
+define the sigmoid function
 function: 1/1+e^{-}
-    derivative: x(1-x)(1/1+e^{-}) 
+derivative: x(1-x)(1/1+e^{-}) 
 
 
 initialise input array
@@ -13,7 +13,7 @@ set seed
 initialise random number array (3,1) with mean 0 bounded by [1,-1]
 
 
-for loop with 10000 iterations:
+for loop with n iterations:
     first layer network l0
     second layer (l0.weights)
 
@@ -28,4 +28,6 @@ for loop with 10000 iterations:
 output l1
 
 
+
+#hidden layer example
 
