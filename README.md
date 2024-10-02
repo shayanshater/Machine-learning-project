@@ -8,4 +8,4 @@ I will first try to write out the code in Learning.ipynb , then i will try and r
 I will start by planning my code using pseuocode in the plan.txt file. then try and build it from scratch.
 
 
-linux test
+linux test 123
