@@ -1,0 +1,31 @@
+import functions
+
+#define the sigmoid function
+function: 1/1+e^{-}
+    derivative: x(1-x)(1/1+e^{-}) 
+
+
+initialise input array
+initialise output array
+
+
+set seed 
+initialise random number array (3,1) with mean 0 bounded by [1,-1]
+
+
+for loop with 10000 iterations:
+    first layer network l0
+    second layer (l0.weights)
+
+
+    error
+
+    condidence_value
+
+    update weights (l0*.condidence_value)
+
+
+output l1
+
+
+
